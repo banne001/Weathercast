@@ -47,7 +47,8 @@ def byZip():
 
 
 #
-#
+# Uses the url from the parameters to obtain the data of the location. 
+# Prints the location, tempreture, windspeed, and description. 
 # :param url: url to get the information on weather
 #
 def printData(url):
